@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `datatable_example`
+-- Database: `datatable_db`
 --
 
 -- --------------------------------------------------------
