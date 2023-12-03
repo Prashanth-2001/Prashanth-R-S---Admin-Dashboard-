@@ -1,5 +1,3 @@
 {
-    "functions": {
-        "datatable/**/*.php": { runtime: "vercel-php@0.6.0" },
-    }
+    "rewrites": [{ "source": "/(.*)", "destination": "/" }]
 }
